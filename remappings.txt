@@ -1,4 +1,4 @@
-@openzeppelin/=lib/openzeppelin-contracts/contracts
+@openzeppelin/=lib/@openzeppelin/
 solady/=lib/solady
 multicaller/=lib/Multicaller
 v2-core/=lib/v2-core
@@ -11,3 +11,4 @@ seaport-core/=lib/seaport-core
 seaport-sol/=lib/seaport-sol
 @openzeppelin-contracts-v3.1.0/=lib/@openzeppelin-contracts-v3.1.0/contracts
 seaport-types/=lib/seaport-types
+@uniswap/v3-periphery=lib/@uniswap/v3-periphery
